@@ -42,11 +42,10 @@
              Target="sdm660"
              NumClusters="2"
              TotalNumCores="8"
-             SocIds="317,345"
+             SocIds="292,319"
              SynCore="1"
              CoreCtlCpu="4"
-	     MinCoreOnline="0"
-	     CpufreqGov="1" />
+             MinCoreOnline="0" />
 
          <ClustersInfo Id="0" NumCores="4" Type="little" />
          <ClustersInfo Id="1" NumCores="4" Type="big" MaxFrequency="2361600" />
